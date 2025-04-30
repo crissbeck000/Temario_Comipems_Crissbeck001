@@ -1,3 +1,5 @@
+"ESTO ES SOLO LA PRUEBA PERO PIENSO HACERLO ASI CON TODOS LOS DEMAS TEMAS Y MATERIAS"
+
 #EJEMPLO PRACTICO PARA ESTUDIO DE EXAMEN DE INGRESO A BACHILLERATO COMIPEMS#
 
 # Español - Bloque 1:Funciones de la Lengua
@@ -58,6 +60,12 @@ La **funcion Metalinguistica:**
 > 1. Ejemplo 1…  
 > 2. Ejemplo 2…”  
 
+### Comentarios && Pensamientos
+
+** ¿Que Aprendi con este Tema?
+** ¿De verdad lo entendi?
+
+### 
 (Guarda este diálogo en un bloque de código o en un archivo aparte `prompts.md` si quieres tener todos tus prompts organizados.)
 
 ---
