@@ -1,2 +1,2 @@
-# Ta
-Just the Subjects from my school
+# "Repositorio de Estudio Autodidacta para COMIPEMS con flujos de trabajo GIT y automatizaciòn"
+Mi meta con este proyecto es simplemente llevar un orden de los temarios asi como informacion en linea y recursos y compartirlo con todos para el que quiera seguir este camino junto conmigo de momento comenzare con el aprendizaje para "Examen Comipems" si , ya se , ya se ya los descontinuaron en la mayoria de escuelas bachillerato los examenes de ingreso desde 2024 pero, quiero probarme a mi mismo y tener una buena base de conocimientos para posteriormente hacer el "Examen Colbach" si asi es ya estoy grandesito xD, pero nunca es tarde siempre se aprende algo nuevo y #Hay que superarse#
