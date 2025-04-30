@@ -63,3 +63,5 @@ La **funcion Metalinguistica:**
 ---
 
 "Ya lo pude ver por terminal gracias por la paciencia "
+
+"segunda vez que pude entrar la practica hace al maestro "
