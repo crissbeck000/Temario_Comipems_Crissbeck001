@@ -62,3 +62,4 @@ La **funcion Metalinguistica:**
 
 ---
 
+"Ya lo pude ver por terminal gracias por la paciencia "
