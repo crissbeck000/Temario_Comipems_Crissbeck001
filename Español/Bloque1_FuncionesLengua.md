@@ -44,7 +44,7 @@ La **funcion Metalinguistica:**
   https://mathfun.blog/porcentajes  
 
 ### 📑 Lecturas adicionales
-- **Wikipedia – Función referencial**  
+- **Wikipedia – Función referencial**   yyyy
   https://es.wikipedia.org/wiki/Función_referencial  
 - **Artículo “Teoría de números para principiantes”**, Revista Matemática Escolar  
   https://revistamat.es/teoria_numeros  
