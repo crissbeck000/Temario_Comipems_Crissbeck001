@@ -5,11 +5,12 @@
 # Español - Bloque 1:Funciones de la Lengua
 
 ## 1. Resumen Teorico
-La **Funcion Referencial:**
-La **Funcion Apelativa:**
-La **Funcion Fatica:**
-La **Funcion Poetica:**
-La **funcion Metalinguistica:**
+
+**Funcion Referencial:**
+**Funcion Apelativa:**
+**Funcion Fatica:**
+**Funcion Poetica:**
+**funcion Metalinguistica:**
 
 ## 2. Ejemplos Practicos
 1. **Funcion Referencial:** "etc etc"
